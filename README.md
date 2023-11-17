@@ -1,16 +1,24 @@
-### Hi there 👋
+## Welcome to my Repositories 👋
 
-<!--
-**zaidal86/zaidal86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, My real name is **William**
+<br/>🏠 I live in **France**
+<br/>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### More fact about me:
+
+- 🔭 I’m currently working on Node.js, Typescript, HTML, CSS
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: Im Cute :3
+<hr>
+
+<a href="https://github.com/zaidal86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidal86&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="JAXID stats" />
+</a>
+<br><br>
+<a href="https://github.com/zaidal86?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidal86&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<br>
+<br>
